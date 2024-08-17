@@ -2,7 +2,7 @@ import json
 
 import socket
 
-from protocol import *
+from lib.protocol import *
 
 from datetime import datetime
 
